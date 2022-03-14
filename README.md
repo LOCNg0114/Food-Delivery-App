@@ -1,6 +1,9 @@
 # Food-Delivery-App
 
-A good looking Food Delivery App based on the design created by ILia on Dribbble.
+A Food Delivery App based on the design created by ILia on Dribbble.
+
+But in this product, I had some modifies and used "expo' as the main working library.
+
 
 ## Table of Contents
 
